@@ -20,7 +20,7 @@
 
 > _Скриншот меню_
 
-![Главное меню](screenshots/menu.png)
+![Главное меню](screenshots/mainMenu.png)
 
 ---
 
