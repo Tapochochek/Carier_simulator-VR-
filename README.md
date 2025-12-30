@@ -34,8 +34,9 @@
 
 > _Скриншоты сценария агронома_
 
-![Агроном — скрин 1](screenshots/agronom_1.png)
-![Агроном — скрин 2](screenshots/agronom_2.png)
+![Агроном — скрин 1](grib.jpg)
+![Агроном — скрин 2](furgicid.jpg)
+![Агроном — скрин 3](point.jpg)
 
 ---
 
